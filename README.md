@@ -1,6 +1,6 @@
 # mvc-sql (the same as [mvc-mongo](https://github.com/Mohammad-Erhim/mvc-mongo) but with SQL)
 ## Demo [https://mvc-mongo.herokuapp.com/](https://mvc-mongo.herokuapp.com/)
-(email:`test@gmail.com`,passsword:`111111`)
+(email:`test@gmail.com`,password:`111111`)
 
 
 
