@@ -1,12 +1,9 @@
 # mvc-sql (the same as [mvc-mongo](https://github.com/Mohammad-Erhim/mvc-mongo) but with SQL)
 
-https://user-images.githubusercontent.com/75538560/155988343-bfcd324f-12bc-4ffb-af1e-25c2c38615fd.mp4
+https://user-images.githubusercontent.com/75538560/155998285-6c60bee2-b23d-43dc-933d-c9958292828b.mp4
 
 ## Demo [https://mvc-mongo.herokuapp.com/](https://mvc-mongo.herokuapp.com/)
 (email:`test@gmail.com`,passsword:`111111`)
-
-
-
 
 
 ## About
